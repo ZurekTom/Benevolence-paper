@@ -1,0 +1,19 @@
+{
+  "agents": [
+    {
+      "name" : "agentX",
+      "script_file" : "agentX.asl",
+      "number": 1
+    },
+    {
+      "name" : "tomY",
+      "script_file" : "tomY.asl",
+      "number": 1
+    },
+    {
+      "name" : "tomZ",
+      "script_file" : "tomZ.asl",
+      "number": 1
+    }
+  ]
+}
