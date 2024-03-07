@@ -21,7 +21,7 @@ Files agentX.asl represent the main agent X. Files tomY.asl and tomZ.asl represe
 The details of running  of the exewmplary AgentScript (ASC2) Maven/Java Example Project can be found here : [https://github.com/mostafamohajeri/agentscript](https://github.com/mostafamohajeri/agentscript)
 
 Requirements:
-* Java 11+ (jdk 21 and higher does not work)
+* Java 11+ (jdk 21 and higher ones do not work)
 * sbt or maven
 
 To compile the agents enter:
